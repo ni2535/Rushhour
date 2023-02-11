@@ -18,6 +18,7 @@ public class GameActivity extends AppCompatActivity {
         tvLevel = findViewById(R.id.tvLevel);
 
         //ofek is good
+        //ofek is better
 
     }
 
