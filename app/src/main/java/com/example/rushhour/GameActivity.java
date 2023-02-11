@@ -17,6 +17,8 @@ public class GameActivity extends AppCompatActivity {
         int position = getIntent().getExtras().getInt("position",0);
         tvLevel = findViewById(R.id.tvLevel);
 
+        //ofek is good
+
     }
 
 
